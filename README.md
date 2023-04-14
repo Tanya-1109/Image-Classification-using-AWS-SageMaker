@@ -25,28 +25,33 @@ Epochs	                 Categorical	  Values: [1, 2]
 
 - Include a screenshot of completed training jobs
 
-![Photo1]("Screenshots/Image1.png")
+![Image1](https://user-images.githubusercontent.com/107848751/231981245-1c8e2823-7c06-4605-969a-9a700e5a304c.png)
 
 
 - Logs metrics during the training process
 
-![Photo2]("Screenshots/Image2.png")
+![Image2](https://user-images.githubusercontent.com/107848751/231981375-87c8110a-1ad5-4c71-9a3f-fc3d12929bd8.png)
+
 
 - First Job
 
-![Photo3]("Screenshots/Image3.png")
+![Image3](https://user-images.githubusercontent.com/107848751/231981450-0390ffc4-b288-42fb-8ab9-d65b6a598731.png)
+
 
 - Second Job
 
-![Photo4]("Screenshots/Image4.png")
+![Image4](https://user-images.githubusercontent.com/107848751/231981524-135334c4-5564-41e0-86e3-981645abab4b.png)
+
 
 - Third Job
 
-![Photo5]("Screenshots/Image5.png")
+![Image5](https://user-images.githubusercontent.com/107848751/231981582-a3d513f3-ae6d-41f3-a12b-b93361c76eaf.png)
+
 
 - The Best Hyparameter
 
-![Photo6]("Screenshots/Image6.png")
+![Image6](https://user-images.githubusercontent.com/107848751/231981640-2e455c5e-841f-486a-8313-151cc9542551.png)
+
 
 
 
@@ -85,7 +90,8 @@ The model's output label can be found by taking the maximum over the 133 output 
 The model was finetuned for 1 epoch using a batch size of 128 and learning rate ~0.05.
 
 
-![Photo7]("Screenshots/Image7.png")
+![Image7](https://user-images.githubusercontent.com/107848751/231981719-caca10ba-6492-4a76-a611-7049b67b867f.png)
+
 
 
 ### Instructions to query the model
