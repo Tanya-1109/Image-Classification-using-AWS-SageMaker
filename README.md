@@ -30,7 +30,7 @@ Epochs	                 Categorical	  Values: [1, 2]
 
 - Logs metrics during the training process
 
-![Photo2]("https://d-clkas2kj3gz9.studio.us-east-1.sagemaker.aws/jupyter/default/files/CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter/Photos/Image2.png?_xsrf=2%7C9254bf6e%7Cc2b46b35c80f3fb2f83f41c82884806d%7C1681381479")
+![Photo2]("https://github.com/Tanya-1109/Image-Classification-using-AWS-SageMaker/blob/main/Screenshots/Image2.png")
 
 - First Job
 
