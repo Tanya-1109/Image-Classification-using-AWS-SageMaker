@@ -25,28 +25,28 @@ Epochs	                 Categorical	  Values: [1, 2]
 
 - Include a screenshot of completed training jobs
 
-![Photo1]("https://d-clkas2kj3gz9.studio.us-east-1.sagemaker.aws/jupyter/default/files/CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter/Photos/Image1.png?_xsrf=2%7C9254bf6e%7Cc2b46b35c80f3fb2f83f41c82884806d%7C1681381479")
+![Photo1]("Screenshots/Image1.png")
 
 
 - Logs metrics during the training process
 
-![Photo2]("https://github.com/Tanya-1109/Image-Classification-using-AWS-SageMaker/blob/main/Screenshots/Image2.png")
+![Photo2]("Screenshots/Image2.png")
 
 - First Job
 
-![Photo3]("https://d-clkas2kj3gz9.studio.us-east-1.sagemaker.aws/jupyter/default/files/CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter/Photos/Image3.png?_xsrf=2%7C9254bf6e%7Cc2b46b35c80f3fb2f83f41c82884806d%7C1681381479")
+![Photo3]("Screenshots/Image3.png")
 
 - Second Job
 
-![Photo4]("https://d-clkas2kj3gz9.studio.us-east-1.sagemaker.aws/jupyter/default/files/CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter/Photos/Image4.png?_xsrf=2%7C9254bf6e%7Cc2b46b35c80f3fb2f83f41c82884806d%7C1681381479")
+![Photo4]("Screenshots/Image4.png")
 
 - Third Job
 
-![Photo5]("https://d-clkas2kj3gz9.studio.us-east-1.sagemaker.aws/jupyter/default/files/CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter/Photos/Image5.png?_xsrf=2%7C9254bf6e%7Cc2b46b35c80f3fb2f83f41c82884806d%7C1681381479")
+![Photo5]("Screenshots/Image5.png")
 
 - The Best Hyparameter
 
-![Photo6]("https://d-clkas2kj3gz9.studio.us-east-1.sagemaker.aws/jupyter/default/files/CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter/Photos/Image6.png?_xsrf=2%7C9254bf6e%7Cc2b46b35c80f3fb2f83f41c82884806d%7C1681381479")
+![Photo6]("Screenshots/Image6.png")
 
 
 
@@ -85,7 +85,7 @@ The model's output label can be found by taking the maximum over the 133 output 
 The model was finetuned for 1 epoch using a batch size of 128 and learning rate ~0.05.
 
 
-![Photo7]("https://d-clkas2kj3gz9.studio.us-east-1.sagemaker.aws/jupyter/default/files/CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter/Photos/Image6.png?_xsrf=2%7C9254bf6e%7Cc2b46b35c80f3fb2f83f41c82884806d%7C1681381479")
+![Photo7]("Screenshots/Image7.png")
 
 
 ### Instructions to query the model
